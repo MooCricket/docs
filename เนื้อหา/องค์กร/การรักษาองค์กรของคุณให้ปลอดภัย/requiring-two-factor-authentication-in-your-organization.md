@@ -77,5 +77,5 @@ If any members or outside collaborators are removed from the organization when y
 
 - "[Viewing whether users in your organization have 2FA enabled](/articles/viewing-whether-users-in-your-organization-have-2fa-enabled)"
 - "[Securing your account with two-factor authentication (2FA)](/articles/securing-your-account-with-two-factor-authentication-2fa)"
-- "[Reinstating a former member of your organization](/articles/reinstating-a-former-member-of-your-organization)"
+- "[Reinstating a former member of your organization](/articles/reinstating-a-former-member-of-your-organization
 - "[Reinstating a former outside collaborator's access to your organization](/articles/reinstating-a-former-outside-collaborator-s-access-to-your-organization)"
